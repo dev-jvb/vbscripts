@@ -3,6 +3,6 @@ Handy scripts
 
 used for shell users.
 
-exmaple email address: not_jvanB@shell.com
+To trigger an alert; here's my email address: not_jvanB@shell.com (JvB)
 
-Have fun!
+Have fun, CDT!
